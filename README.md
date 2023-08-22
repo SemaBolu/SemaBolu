@@ -1,7 +1,4 @@
-<h3 align="center">QA Software Test Engineer | ISTQB® Certified Tester</h3>
-
-- 💬 Ask me about **Blockchain**
-
+<h3 align="left">QA Software Test Engineer | ISTQB® Certified Tester</h3>
 - 📫 How to reach me **baharsu2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
